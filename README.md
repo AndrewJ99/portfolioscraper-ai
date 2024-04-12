@@ -11,7 +11,7 @@ pip install openai
 pip install streamlit
 ```
 
-#How to run the script using streamlit 
+# How to run the script using streamlit 
 
 ```
 streamlit run ./portfolioscrapper-ai.py
