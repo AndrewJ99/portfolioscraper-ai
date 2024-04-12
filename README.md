@@ -5,5 +5,14 @@ Scrape portfolio websites using this python script in conjunction with openai ch
 ## Make sure to install the necessary dependencies
 
 ```
+pip install beautifulsoup4
+pip install requests
+pip install openai
+pip install streamlit
+```
+
+#How to run the script using streamlit 
+
+```
 streamlit run ./portfolioscrapper-ai.py
 ```
